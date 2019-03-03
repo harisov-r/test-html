@@ -16,3 +16,7 @@ td, th {
 .currency-table th {
     background-color: khaki;
 }
+
+p {
+    text-align: center;
+}
