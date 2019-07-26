@@ -18,7 +18,7 @@ td, th {
 }
 
 p {
-    text-align: center;
+    text-align: left;
 }
 
 .logo {
@@ -28,4 +28,8 @@ p {
 h2 {
     font-size: 48px;
     color: brown;
+}
+
+.bordered-box {
+    border: 2px solid lightseagreen;
 }
