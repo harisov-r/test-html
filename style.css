@@ -24,3 +24,8 @@ p {
 .logo {
     text-align: left;
 }
+
+h2 {
+    font-size: 48px;
+    color: brown;
+}
