@@ -31,5 +31,7 @@ h2 {
 }
 
 .bordered-box {
-    border: 2px solid orangered;
+    border: 2px solid cyan;
+    padding: 20px;
+    width: 300px;
 }
